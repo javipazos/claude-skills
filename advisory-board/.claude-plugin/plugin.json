@@ -1,0 +1,21 @@
+{
+  "name": "advisory-board",
+  "version": "1.0.0",
+  "description": "An advisory board of five thinkers — Sinek, Sutherland, Pink, Kahneman, and Stoic philosophy — for reflection, decision-making, and persuasion",
+  "author": {
+    "name": "Javi Pazos"
+  },
+  "repository": "https://github.com/javipazos/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "thinking",
+    "persuasion",
+    "decision-making",
+    "behavioral-economics",
+    "leadership",
+    "motivation",
+    "cognitive-bias",
+    "stoicism",
+    "advisory"
+  ]
+}
