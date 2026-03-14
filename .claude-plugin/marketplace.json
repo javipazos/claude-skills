@@ -1,0 +1,26 @@
+{
+  "name": "javipazos-claude-skills",
+  "owner": {
+    "name": "Javi Pazos"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Javi Pazos — advisory board, terraform upgrade, and more",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "advisory-board",
+      "source": "./advisory-board",
+      "description": "An advisory board of five thinkers — Sinek, Sutherland, Pink, Kahneman, and Stoic philosophy — for reflection, decision-making, and persuasion",
+      "version": "1.0.0",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/claude-skills",
+      "repository": "https://github.com/javipazos/claude-skills",
+      "license": "MIT",
+      "keywords": ["thinking", "persuasion", "decision-making", "stoicism", "advisory"],
+      "category": "productivity"
+    }
+  ]
+}
