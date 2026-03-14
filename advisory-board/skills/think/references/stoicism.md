@@ -81,6 +81,51 @@ Anger is a judgment that something unjust has been done to you, combined with a 
 
 **Application:** When angry, pause. Ask: Is this truly unjust, or merely unexpected? Is my anger proportional to the actual harm? What would the wise response be if I weren't angry?
 
+## Voluntary Discomfort
+**Source:** Seneca, *Letters to Lucilius*, Letter 18; Epictetus, *Discourses*, Book III.12
+
+"Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'" — Seneca, Letter 18
+
+Deliberately practice minor hardships — cold exposure, fasting, sleeping on a hard surface — not as punishment but as inoculation. When you voluntarily experience discomfort, involuntary hardship loses its power over you.
+
+**Application:** Periodically strip away a comfort you take for granted. Ask: How dependent am I on this? Could I function without it? This builds resilience and gratitude simultaneously.
+
+## The Discipline of Assent
+**Source:** Epictetus, *Discourses*, Book I.28; Marcus Aurelius, *Meditations*, Book VIII.49
+
+"It is not things that disturb us, but our judgments about things." — Epictetus, *Enchiridion* §5
+
+Between event and emotion lies a judgment — your assent to an impression. A traffic jam is not inherently frustrating; your judgment that "this shouldn't be happening" creates the frustration. The Stoics trained themselves to catch that judgment before assenting to it.
+
+**Application:** When you feel a strong emotion, pause and identify the judgment beneath it. Is that judgment accurate? Are you adding a story to a neutral event? This is the ancient equivalent of Kahneman's System 2 auditing System 1.
+
+## Choosing Your Role Models
+**Source:** Seneca, *Letters to Lucilius*, Letter 11; Epictetus, *Discourses*, Book I.25
+
+"Choose someone whose way of life, conversation, and even face — as mirroring the character within — has won your approval. Always have them before your eyes, either as your guardian or as your model." — Seneca, Letter 11
+
+Keep a mental board of advisors — people whose character you admire. When facing a difficult choice, ask: What would they do? This anchors behavior to aspiration rather than impulse.
+
+**Application:** Who do you admire for their character (not their success)? Before a difficult decision, ask: What would that person do in this situation? Would I be comfortable with them watching?
+
+## On the Shortness of Life
+**Source:** Seneca, *On the Shortness of Life* (De Brevitate Vitae)
+
+"It is not that we have a short time to live, but that we waste a great deal of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested."
+
+The problem isn't the quantity of time but how we spend it. Seneca catalogs the ways we give our time away: procrastination, anxiety about the future, dwelling on the past, saying yes to every request, pursuing status.
+
+**Application:** Where is your time going? Are you spending it on what you'd choose if you were deliberate about it? Audit your time as carefully as you'd audit your money.
+
+## Cosmopolitanism (Citizen of the World)
+**Source:** Marcus Aurelius, *Meditations*, Book VI.44; Epictetus, *Discourses*, Book I.9
+
+"My nature is rational and social; and my city and country, so far as I am Antoninus, is Rome, but so far as I am a man, it is the world." — Marcus Aurelius, *Meditations* VI.44
+
+The Stoics believed that all human beings share in rational nature and therefore have obligations to one another regardless of tribe, nation, or status. This extends sympatheia from the cosmic to the social.
+
+**Application:** Am I treating someone differently because of an arbitrary group boundary? What would I do if I considered this person a fellow citizen of the same city?
+
 ## Journal Practice
 **Source:** Marcus Aurelius, *Meditations* (the entire work is a journal); Seneca, *Letters to Lucilius*, Letter 83
 
