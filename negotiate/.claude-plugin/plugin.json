@@ -2,7 +2,9 @@
   "name": "negotiate",
   "version": "1.0.0",
   "description": "Evidence-based negotiation assistant for written and asynchronous negotiations — salary, contracts, vendor terms, stakeholder influence, and more",
-  "author": "Javi Pazos",
+  "author": {
+    "name": "Javi Pazos"
+  },
   "repository": "https://github.com/javipazos/claude-skills",
   "license": "MIT",
   "keywords": [
