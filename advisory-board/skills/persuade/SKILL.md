@@ -22,7 +22,8 @@ Determine which reference to load based on what the user is doing:
 
 - **Web pages, landing pages, interfaces** → Load [references/web-design.md](references/web-design.md) for the web-specific checklist
 - **Documents, proposals, presentations, pitch decks** → Load [references/documents.md](references/documents.md) for the document-specific checklist
-- **Conversations, negotiations, difficult talks** → Load [references/conversations.md](references/conversations.md) for the interpersonal checklist
+- **Conversations, difficult talks** → Load [references/conversations.md](references/conversations.md) for the interpersonal checklist
+- **Bidirectional negotiations** (salary, contracts, vendor terms, counter-offers) → Suggest using `/negotiate` instead — it provides a specialized three-phase workflow (Prepare → Draft → Review) with evidence-based techniques for written negotiation
 
 If multiple apply (e.g., a proposal that will also be presented in person), load both.
 

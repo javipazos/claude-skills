@@ -21,6 +21,20 @@
       "license": "MIT",
       "keywords": ["think", "pensar", "thinking", "persuasion", "decision-making", "stoicism", "advisory", "reflection", "creation"],
       "category": "productivity"
+    },
+    {
+      "name": "negotiate",
+      "source": "./negotiate",
+      "description": "Evidence-based negotiation assistant for written negotiations — salary, contracts, vendor terms, stakeholder influence",
+      "version": "1.0.0",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/claude-skills",
+      "repository": "https://github.com/javipazos/claude-skills",
+      "license": "MIT",
+      "keywords": ["negotiation", "persuasion", "salary", "contracts", "influence"],
+      "category": "productivity"
     }
   ]
 }
