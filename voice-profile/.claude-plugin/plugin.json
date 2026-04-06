@@ -1,0 +1,11 @@
+{
+  "name": "voice-profile",
+  "version": "1.0.0",
+  "description": "Javi's voice profile — calibrates Claude's responses, drafts, and tone to match how Javi actually communicates across contexts",
+  "author": {
+    "name": "Javi Pazos"
+  },
+  "repository": "https://github.com/javipazos/claude-skills",
+  "license": "MIT",
+  "keywords": ["voice", "tone", "writing", "calibration", "communication"]
+}
