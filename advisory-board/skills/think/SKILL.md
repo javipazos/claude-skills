@@ -1,6 +1,6 @@
 ---
 name: think
-description: Use when the user is reflecting, evaluating a decision, thinking through a problem, or seeking perspective. Triggers on mentions of "thinking about", "evaluating", "should I", "what do you think", "perspective on", "help me think", "decision", "advice", or when the user is processing a personal or professional situation rather than creating something.
+description: Use when the user is reflecting on a personal, professional, or strategic NON-CODE decision — career move, relationships, team dynamics, life choices, business direction, or a dilemma without a technical right answer. TRIGGER on phrases like "help me think about [life/career/team/business]", "I'm torn between", "I'm deciding whether to [non-technical]", "what's your take on [non-technical situation]", or explicit /think invocation. SKIP when the question is about code, architecture, API design, debugging, schema, library choice, or any engineering trade-off — those are outside this advisory board's domain. SKIP short probes like "should I extract this" inside an active coding task.
 ---
 
 # Think — Advisory Board for Reflection

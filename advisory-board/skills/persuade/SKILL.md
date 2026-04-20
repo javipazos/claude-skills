@@ -1,6 +1,6 @@
 ---
 name: persuade
-description: Use when the user is creating something meant to influence or persuade — designing web pages, writing documents, preparing presentations, planning negotiations, or preparing for difficult conversations. Triggers on mentions of "landing page", "proposal", "pitch", "negotiate", "convince", "presentation", "persuade", or when creating content intended to move people to action.
+description: Use when the user is deliberately crafting or reviewing persuasive CONTENT — the narrative/copy of a landing page, the argument of a proposal or pitch deck, the opening of a sales email, or the framing of a difficult conversation. TRIGGER on "this pitch/proposal/landing copy", "convince [named audience]", "frame this message", "review my persuasion", or explicit /persuade invocation. SKIP when the user is designing UI layout/components (use frontend-design), writing a back-and-forth negotiation message (use negotiate), writing technical docs or commit messages, or any task where the goal is clarity rather than moving a specific audience to a specific action.
 ---
 
 # Persuade — Frameworks for Creation and Influence

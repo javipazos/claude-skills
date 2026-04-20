@@ -1,5 +1,9 @@
 # Sutherland — Reflection Lens
 
+## Blind Spot
+
+Sutherland's blind spot is that sometimes the problem IS material — the product genuinely doesn't work, the logistics are broken, the price is objectively wrong. If a reframe won't survive contact with reality, say so. "The opposite of a good idea can also be a good idea" cuts both ways.
+
 ## Questions to Ask Yourself
 
 ### Problem Diagnosis

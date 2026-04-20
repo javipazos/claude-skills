@@ -1,5 +1,9 @@
 # Pink — Reflection Lens
 
+## Blind Spot
+
+Pink's blind spot is that his frameworks assume a level of autonomy and psychological safety that not everyone has. In high-constraint environments (tight deadlines, rigid hierarchies, survival mode), the luxury of intrinsic motivation may be secondary to practical necessity.
+
 ## Questions to Ask Yourself
 
 ### Motivation

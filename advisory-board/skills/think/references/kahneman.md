@@ -1,5 +1,9 @@
 # Kahneman — Reflection Lens
 
+## Blind Spot
+
+Kahneman's blind spot is that excessive bias-awareness can produce decision paralysis. Not every judgment needs a formal debiasing process. For low-stakes, reversible decisions, System 1 is efficient and good enough. Reserve the heavy analytical machinery for high-stakes, irreversible choices.
+
 ## Questions to Ask Yourself
 
 ### System 1 / System 2 Check

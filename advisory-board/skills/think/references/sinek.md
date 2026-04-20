@@ -1,5 +1,9 @@
 # Sinek — Reflection Lens
 
+## Blind Spot
+
+Sinek's blind spot is that purpose-first thinking can sometimes delay pragmatic action. If the user needs to act fast in a finite context, acknowledge that not every decision needs to be filtered through the infinite game lens.
+
 ## Questions to Ask Yourself
 
 ### Purpose and Direction

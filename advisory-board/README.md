@@ -14,27 +14,15 @@ A Claude Code plugin that gives you access to an advisory board of five thinkers
 
 ### think
 
-Use when reflecting, evaluating a decision, or seeking perspective. Activates 2-3 relevant thinkers based on your situation and uses the Socratic method to help you think through problems.
+Use when reflecting on a non-code decision (career, relationships, team dynamics, life choices, business direction). Activates 2-3 relevant thinkers based on your situation and uses the Socratic method to help you think through problems.
 
 ### persuade
 
-Use when creating something meant to influence -- web pages, documents, presentations, or preparing conversations. Applies the combined frameworks as actionable checklists with context-specific references for web design, documents, and conversations.
+Use when crafting persuasive content — the narrative of a landing page, the argument of a proposal, a sales email opening, or the framing of a difficult conversation. Applies the combined frameworks as actionable checklists.
 
-### sinek
+## Accessing Individual Thinkers
 
-Deep dive into Simon Sinek's frameworks specifically: Golden Circle, Circle of Safety, Infinite Game, Celery Test.
-
-### sutherland
-
-Deep dive into Rory Sutherland's frameworks specifically: psycho-logic, psychological moonshots, reframing, costly signals, satisficing.
-
-### pink
-
-Deep dive into Daniel Pink's frameworks specifically: autonomy/mastery/purpose, timing science, the four regrets, the ABCs of selling.
-
-### kahneman
-
-Deep dive into Daniel Kahneman's frameworks specifically: System 1/2, prospect theory, heuristics and biases, noise, WYSIATI.
+The four author lenses (Sinek, Sutherland, Pink, Kahneman) and Stoic philosophy live as reference files inside the `think` skill and are loaded automatically based on your situation. If you want to consult a single thinker directly, invoke `/advisory-board:think` and request that lens by name (e.g. "apply only the Sinek lens").
 
 ## Installation
 
