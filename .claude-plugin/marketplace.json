@@ -35,6 +35,20 @@
       "license": "MIT",
       "keywords": ["negotiation", "persuasion", "salary", "contracts", "influence"],
       "category": "productivity"
+    },
+    {
+      "name": "voice-profile",
+      "source": "./voice-profile",
+      "description": "Javi's voice profile — calibrates Claude's responses, drafts, and tone to match how Javi actually communicates across contexts",
+      "version": "1.0.0",
+      "author": {
+        "name": "Javi Pazos"
+      },
+      "homepage": "https://github.com/javipazos/claude-skills",
+      "repository": "https://github.com/javipazos/claude-skills",
+      "license": "MIT",
+      "keywords": ["voice", "tone", "writing", "calibration", "communication"],
+      "category": "productivity"
     }
   ]
 }
